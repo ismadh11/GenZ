@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308109597475",
+    "project_id": "genz2024-c0bcd",
+    "storage_bucket": "genz2024-c0bcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308109597475:android:c7912b51c17cb1eac5ca96",
+        "android_client_info": {
+          "package_name": "com.example.genz_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0xc4lcUBsjoioWzbB9jV9ADFUjwKw3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
